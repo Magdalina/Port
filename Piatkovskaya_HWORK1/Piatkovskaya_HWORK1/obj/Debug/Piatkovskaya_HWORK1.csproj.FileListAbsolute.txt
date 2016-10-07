@@ -1,0 +1,15 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\Piatkovskaya_HWORK1\Piatkovskaya_HWORK1\bin\Debug\Piatkovskaya_HWORK1.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\Piatkovskaya_HWORK1\Piatkovskaya_HWORK1\bin\Debug\Piatkovskaya_HWORK1.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\Piatkovskaya_HWORK1\Piatkovskaya_HWORK1\bin\Debug\Piatkovskaya_HWORK1.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\Piatkovskaya_HWORK1\Piatkovskaya_HWORK1\obj\Debug\Piatkovskaya_HWORK1.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\Piatkovskaya_HWORK1\Piatkovskaya_HWORK1\obj\Debug\Piatkovskaya_HWORK1.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\Piatkovskaya_HWORK1\Piatkovskaya_HWORK1\obj\Debug\Piatkovskaya_HWORK1.pdb
+E:\C#\Piatkovskaya_HWORK1\Piatkovskaya_HWORK1\bin\Debug\Piatkovskaya_HWORK1.exe.config
+E:\C#\Piatkovskaya_HWORK1\Piatkovskaya_HWORK1\obj\Debug\Piatkovskaya_HWORK1.exe
+E:\C#\Piatkovskaya_HWORK1\Piatkovskaya_HWORK1\obj\Debug\Piatkovskaya_HWORK1.pdb
+E:\C#\Piatkovskaya_HWORK1\Piatkovskaya_HWORK1\bin\Debug\Piatkovskaya_HWORK1.exe
+E:\C#\Piatkovskaya_HWORK1\Piatkovskaya_HWORK1\bin\Debug\Piatkovskaya_HWORK1.pdb
+E:\C#\Piatkovskaya_HWORK1\Piatkovskaya_HWORK1\obj\Debug\Piatkovskaya_HWORK1.csprojResolveAssemblyReference.cache
+C:\C#\Piatkovskaya_HWORK1\Piatkovskaya_HWORK1\bin\Debug\Piatkovskaya_HWORK1.exe.config
+C:\C#\Piatkovskaya_HWORK1\Piatkovskaya_HWORK1\obj\Debug\Piatkovskaya_HWORK1.exe
+C:\C#\Piatkovskaya_HWORK1\Piatkovskaya_HWORK1\obj\Debug\Piatkovskaya_HWORK1.pdb

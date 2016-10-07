@@ -1,0 +1,18 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\Piatkovskaya_HOME_WORK2\Piatkovskaya_HOME_WORK2\bin\Debug\Piatkovskaya_HOME_WORK2.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\Piatkovskaya_HOME_WORK2\Piatkovskaya_HOME_WORK2\bin\Debug\Piatkovskaya_HOME_WORK2.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\Piatkovskaya_HOME_WORK2\Piatkovskaya_HOME_WORK2\bin\Debug\Piatkovskaya_HOME_WORK2.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\Piatkovskaya_HOME_WORK2\Piatkovskaya_HOME_WORK2\obj\Debug\Piatkovskaya_HOME_WORK2.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\Piatkovskaya_HOME_WORK2\Piatkovskaya_HOME_WORK2\obj\Debug\Piatkovskaya_HOME_WORK2.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\Piatkovskaya_HOME_WORK2\Piatkovskaya_HOME_WORK2\obj\Debug\Piatkovskaya_HOME_WORK2.csprojResolveAssemblyReference.cache
+F:\C#\Piatkovskaya_HOME_WORK2\Piatkovskaya_HOME_WORK2\bin\Debug\Piatkovskaya_HOME_WORK2.exe.config
+F:\C#\Piatkovskaya_HOME_WORK2\Piatkovskaya_HOME_WORK2\obj\Debug\Piatkovskaya_HOME_WORK2.exe
+F:\C#\Piatkovskaya_HOME_WORK2\Piatkovskaya_HOME_WORK2\obj\Debug\Piatkovskaya_HOME_WORK2.pdb
+E:\C#\Piatkovskaya_HOME_WORK2\Piatkovskaya_HOME_WORK2\bin\Debug\Piatkovskaya_HOME_WORK2.exe.config
+E:\C#\Piatkovskaya_HOME_WORK2\Piatkovskaya_HOME_WORK2\obj\Debug\Piatkovskaya_HOME_WORK2.exe
+E:\C#\Piatkovskaya_HOME_WORK2\Piatkovskaya_HOME_WORK2\obj\Debug\Piatkovskaya_HOME_WORK2.pdb
+E:\C#\Piatkovskaya_HOME_WORK2\Piatkovskaya_HOME_WORK2\bin\Debug\Piatkovskaya_HOME_WORK2.exe
+E:\C#\Piatkovskaya_HOME_WORK2\Piatkovskaya_HOME_WORK2\bin\Debug\Piatkovskaya_HOME_WORK2.pdb
+E:\C#\Piatkovskaya_HOME_WORK2\Piatkovskaya_HOME_WORK2\obj\Debug\Piatkovskaya_HOME_WORK2.csprojResolveAssemblyReference.cache
+C:\C#\Piatkovskaya_HOME_WORK2\Piatkovskaya_HOME_WORK2\bin\Debug\Piatkovskaya_HOME_WORK2.exe.config
+C:\C#\Piatkovskaya_HOME_WORK2\Piatkovskaya_HOME_WORK2\obj\Debug\Piatkovskaya_HOME_WORK2.exe
+C:\C#\Piatkovskaya_HOME_WORK2\Piatkovskaya_HOME_WORK2\obj\Debug\Piatkovskaya_HOME_WORK2.pdb
