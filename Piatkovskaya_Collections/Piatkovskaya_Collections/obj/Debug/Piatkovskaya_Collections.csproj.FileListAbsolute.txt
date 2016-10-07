@@ -1,0 +1,15 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\Piatkovskaya_Collections\Piatkovskaya_Collections\bin\Debug\Piatkovskaya_Collections.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\Piatkovskaya_Collections\Piatkovskaya_Collections\obj\Debug\Piatkovskaya_Collections.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\Piatkovskaya_Collections\Piatkovskaya_Collections\bin\Debug\Piatkovskaya_Collections.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\Piatkovskaya_Collections\Piatkovskaya_Collections\bin\Debug\Piatkovskaya_Collections.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\Piatkovskaya_Collections\Piatkovskaya_Collections\obj\Debug\Piatkovskaya_Collections.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\Piatkovskaya_Collections\Piatkovskaya_Collections\obj\Debug\Piatkovskaya_Collections.pdb
+\\tsclient\E\C#\Piatkovskaya_Collections\Piatkovskaya_Collections\bin\Debug\Piatkovskaya_Collections.exe.config
+\\tsclient\E\C#\Piatkovskaya_Collections\Piatkovskaya_Collections\obj\Debug\Piatkovskaya_Collections.exe
+\\tsclient\E\C#\Piatkovskaya_Collections\Piatkovskaya_Collections\obj\Debug\Piatkovskaya_Collections.pdb
+C:\C#\Piatkovskaya_Collections\Piatkovskaya_Collections\bin\Debug\Piatkovskaya_Collections.exe.config
+C:\C#\Piatkovskaya_Collections\Piatkovskaya_Collections\obj\Debug\Piatkovskaya_Collections.exe
+C:\C#\Piatkovskaya_Collections\Piatkovskaya_Collections\obj\Debug\Piatkovskaya_Collections.pdb
+C:\C#\Piatkovskaya_Collections\Piatkovskaya_Collections\bin\Debug\Piatkovskaya_Collections.exe
+C:\C#\Piatkovskaya_Collections\Piatkovskaya_Collections\bin\Debug\Piatkovskaya_Collections.pdb
+C:\C#\Piatkovskaya_Collections\Piatkovskaya_Collections\obj\Debug\Piatkovskaya_Collections.csprojResolveAssemblyReference.cache
